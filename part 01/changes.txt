@@ -1,0 +1,6 @@
+- Renamed the variable in a meaningful manner.
+- Splitted the  logic into functions and classes.
+- Applied the Single Responsibility Principle.
+- Removed duplicate codes.
+- Added validation and error handling.
+- Enhanced overall readability through comments and peoper structure.
